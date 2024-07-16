@@ -51,8 +51,7 @@ Ensure you have Node.js (v14.17 or higher) and npm installed on your machine.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your/repository.git
-   cd repository-name
+   git clone https://github.com/VaderNgo/Typescript-Nodejs-DDD-Boilerplate.git
    ```
 2. **Install Dependencies**
    ```bash
